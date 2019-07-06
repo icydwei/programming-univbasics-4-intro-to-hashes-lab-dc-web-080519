@@ -31,6 +31,7 @@ def read_from_hash(hash, key)
     return hash
   else
     return nil
+  end
 end
 
 
